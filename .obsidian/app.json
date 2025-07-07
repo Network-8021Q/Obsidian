@@ -1,0 +1,11 @@
+{
+  "showLineNumber": false,
+  "readableLineLength": false,
+  "strictLineBreaks": false,
+  "showIndentGuide": true,
+  "rightToLeft": false,
+  "tabSize": 3,
+  "promptDelete": false,
+  "livePreview": true,
+  "defaultViewMode": "source"
+}

@@ -1,0 +1,498 @@
+{
+  "main": {
+    "id": "5b1f7a50b2a7fe37",
+    "type": "split",
+    "children": [
+      {
+        "id": "5cc4356c36b954ee",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "89a8a86d86076cc1",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Скриншоты.md",
+                "mode": "source",
+                "source": false
+              },
+              "pinned": true,
+              "icon": "lucide-file",
+              "title": "Скриншоты"
+            }
+          },
+          {
+            "id": "af1567b168a3acb0",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Термины, которые должен знать каждый IT-шник.md",
+                "mode": "source",
+                "source": false
+              },
+              "pinned": true,
+              "icon": "lucide-file",
+              "title": "Термины, которые должен знать каждый IT-шник"
+            }
+          },
+          {
+            "id": "326b5d730a52c861",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Инструменты.md",
+                "mode": "source",
+                "source": false
+              },
+              "pinned": true,
+              "icon": "lucide-file",
+              "title": "Инструменты"
+            }
+          },
+          {
+            "id": "526a4d347feb3116",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Модели ОSI.md",
+                "mode": "source",
+                "source": false
+              },
+              "pinned": true,
+              "icon": "lucide-file",
+              "title": "Модели ОSI"
+            }
+          },
+          {
+            "id": "884d6d859ab5a7ff",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Основные команды в инструментах  для пантеста.md",
+                "mode": "source",
+                "source": false
+              },
+              "pinned": true,
+              "icon": "lucide-file",
+              "title": "Основные команды в инструментах  для пантеста"
+            }
+          },
+          {
+            "id": "82e03f335abdab61",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "WEB - АТАКИ.md",
+                "mode": "source",
+                "source": false
+              },
+              "pinned": true,
+              "icon": "lucide-file",
+              "title": "WEB - АТАКИ"
+            }
+          },
+          {
+            "id": "3d6e2d58639fc9bd",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Виды атак.md",
+                "mode": "source",
+                "source": false
+              },
+              "pinned": true,
+              "icon": "lucide-file",
+              "title": "Виды атак"
+            }
+          },
+          {
+            "id": "f807c9c13f5ed78f",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Linux - GTU.md",
+                "mode": "source",
+                "source": false
+              },
+              "pinned": true,
+              "icon": "lucide-file",
+              "title": "Linux - GTU"
+            }
+          },
+          {
+            "id": "1166342fb2b0351e",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Виртуализация  контейнеризация.md",
+                "mode": "source",
+                "source": false
+              },
+              "pinned": true,
+              "icon": "lucide-file",
+              "title": "Виртуализация  контейнеризация"
+            }
+          },
+          {
+            "id": "ff9e2911ae5e2615",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Виды атак.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Виды атак"
+            }
+          },
+          {
+            "id": "950e9edf1bd1d8af",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "HTTP и HTTPS.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "HTTP и HTTPS"
+            }
+          },
+          {
+            "id": "42bc2821f124e6ca",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "DNS - запросы.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "DNS - запросы"
+            }
+          },
+          {
+            "id": "5ab5d0e2d3eea8f7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Виды атак.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Виды атак"
+            }
+          },
+          {
+            "id": "f3dac33a5969529e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Прочее.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Прочее"
+            }
+          },
+          {
+            "id": "f1849851de4f458b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Инструменты.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Инструменты"
+            }
+          },
+          {
+            "id": "fc768bd71817fcc0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Полная работа, как работает веб-сайт.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Полная работа, как работает веб-сайт"
+            }
+          },
+          {
+            "id": "9672c83d114a9f0f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "HTTP и HTTPS.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "HTTP и HTTPS"
+            }
+          },
+          {
+            "id": "f5171ece8aa01d12",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Linux DevOps.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Linux DevOps"
+            }
+          },
+          {
+            "id": "07e266d2f52c9411",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Виды атак.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Виды атак"
+            }
+          },
+          {
+            "id": "de19b4ce5f731064",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Термины, которые должен знать каждый IT-шник.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Термины, которые должен знать каждый IT-шник"
+            }
+          }
+        ],
+        "currentTab": 19
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "1b56533e30777046",
+    "type": "split",
+    "children": [
+      {
+        "id": "f58acfb4265f30d0",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ef0b7751d135b6b9",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": true
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Файловый менеджер"
+            }
+          },
+          {
+            "id": "6e01bcf973783a46",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:#tag",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Поиск"
+            }
+          },
+          {
+            "id": "b70b8b2ce223b321",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Закладки"
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "1638d6a5eaa4d556",
+    "type": "split",
+    "children": [
+      {
+        "id": "e75ad2f6e803b37e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "185fdb0988311b9f",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Термины, которые должен знать каждый IT-шник.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Обратные ссылки для Термины, которые должен знать каждый IT-шник"
+            }
+          },
+          {
+            "id": "086fa00f58814071",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Термины, которые должен знать каждый IT-шник.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Исходящие ссылки из Термины, которые должен знать каждый IT-шник"
+            }
+          },
+          {
+            "id": "5a8ea7560da82de5",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Теги"
+            }
+          },
+          {
+            "id": "e3fed7af7781fcdd",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Термины, которые должен знать каждый IT-шник.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Структура Термины, которые должен знать каждый IT-шник"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Меню быстрого перехода": false,
+      "graph:Граф": false,
+      "daily-notes:Сегодняшняя заметка": false,
+      "templates:Вставить шаблон": false,
+      "canvas:Создать новый холст": false,
+      "command-palette:Открыть палитру команд": false
+    }
+  },
+  "active": "de19b4ce5f731064",
+  "lastOpenFiles": [
+    "Linux DevOps.md",
+    "Linux - GTU.md",
+    "Прочее.md",
+    "Виртуализация  контейнеризация.md",
+    "Виды атак.md",
+    "Термины, которые должен знать каждый IT-шник.md",
+    "Инструменты.md",
+    "Модели ОSI.md",
+    "Основные команды в инструментах  для пантеста.md",
+    "WEB - АТАКИ.md",
+    "HTTP и HTTPS.md",
+    "DNS - запросы.md",
+    "Полная работа, как работает веб-сайт.md",
+    "Скриншоты.md",
+    "Без названия.md",
+    "Без названия",
+    "Pasted image 20250705163308.png",
+    "Netcat.md",
+    "Первая атака фишинг.md",
+    "История Stuxnet.md",
+    "2025-06-10.md",
+    "2025-06-09.md",
+    "Без названия.canvas",
+    "Без названия 3.md",
+    "Без названия 2.md",
+    "Без названия 1.md",
+    "Стоматология.md",
+    "Протоколы.md",
+    "Pasted image 20250522180045.png",
+    "Pasted image 20250522180040.png",
+    "Pasted image 20250522175941.png",
+    "Pasted image 20250522175926.png",
+    "Pasted image 20250522175907.png",
+    "Pasted image 20250522173809.png",
+    "Pasted image 20250522173756.png",
+    "Pasted image 20250522173739.png",
+    "Pasted image 20250522173734.png",
+    "2025-05-19.md"
+  ]
+}

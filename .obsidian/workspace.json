@@ -184,7 +184,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -332,10 +332,12 @@
       "command-palette:Открыть палитру команд": false
     }
   },
-  "active": "9672c83d114a9f0f",
+  "active": "07e266d2f52c9411",
   "lastOpenFiles": [
-    "Linux (IS).md",
+    "TelegramBot.md~",
+    "4913",
     "Network (IS).md",
+    "Linux (IS).md",
     "Terms(IS).md",
     "![[Pasted image 20251204234135.png.md",
     "DPI.md",

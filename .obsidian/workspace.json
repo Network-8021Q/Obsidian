@@ -45,12 +45,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Network (IS).md",
+                "file": "TelegramBot.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Network (IS)"
+              "title": "TelegramBot"
             }
           },
           {
@@ -184,7 +184,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -332,17 +332,17 @@
       "command-palette:Открыть палитру команд": false
     }
   },
-  "active": "07e266d2f52c9411",
+  "active": "9672c83d114a9f0f",
   "lastOpenFiles": [
+    "Network (IS).md",
+    "Илаха.md",
+    "Linux (IS).md",
     "TelegramBot.md~",
     "4913",
-    "Network (IS).md",
-    "Linux (IS).md",
     "Terms(IS).md",
     "![[Pasted image 20251204234135.png.md",
     "DPI.md",
     "Виртуализация  контейнеризация.md",
-    "Илаха.md",
     "Pasted image 20260102122946.png",
     "Сайт для стоматологии.md",
     "Термины, которые должен знать каждый IT-шник.md",

@@ -1,2 +1,0 @@
-My Token - 7250303112:AAEwo_hxRk1-Q6KWs5sdddaddadaddadsdVssoooiasdqwed::
-l

@@ -175,12 +175,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Network (IS).md",
+                "file": "Terms(IS).md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Network (IS)"
+              "title": "Terms(IS)"
             }
           }
         ],
@@ -241,7 +241,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "1638d6a5eaa4d556",
@@ -334,8 +335,9 @@
   },
   "active": "3492c7f701402f12",
   "lastOpenFiles": [
-    "TelegramBot.md",
+    "WEB - АТАКИ.md",
     "Network (IS).md",
+    "TelegramBot.md",
     "Network (IS).md~",
     "4913",
     "Terms(IS).md",
@@ -374,7 +376,6 @@
     "Прочее.md",
     "Pasted image 20250722190452.png",
     "Pasted image 20250722185801.png",
-    "WEB - АТАКИ.md",
     "Без названия",
     "Pasted image 20250522180045.png"
   ]

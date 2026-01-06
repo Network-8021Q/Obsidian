@@ -189,16 +189,30 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Network (IS).md",
+                "file": "Бизнес.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Network (IS)"
+              "title": "Бизнес"
+            }
+          },
+          {
+            "id": "08dfdac70c0684a5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Linux (IS).md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Linux (IS)"
             }
           }
         ],
-        "currentTab": 12
+        "currentTab": 13
       }
     ],
     "direction": "vertical"
@@ -346,11 +360,21 @@
       "command-palette:Открыть палитру команд": false
     }
   },
-  "active": "088e3622e47acbe6",
+  "active": "08dfdac70c0684a5",
   "lastOpenFiles": [
-    "Linux (IS).md",
-    "Network (IS).md",
+    "Pasted image 20260106212218.png",
     "Terms(IS).md",
+    "Pasted image 20260106212138.png",
+    "Pasted image 20260102122946.png",
+    "Pasted image 20251204234258.png",
+    "Pasted image 20250722190452.png",
+    "Pasted image 20250719180248.png",
+    "Pasted image 20250719180419.png",
+    "Pasted image 20251204234135.png",
+    "Linux (IS).md",
+    "Бизнес.md",
+    "Виды атак.md",
+    "Network (IS).md",
     "TelegramBot.md",
     "Илаха.md",
     "WEB - АТАКИ.md",
@@ -359,19 +383,13 @@
     "Термины, которые должен знать каждый IT-шник.md",
     "TelegramBot.md~",
     "![[Pasted image 20251204234135.png.md",
-    "DPI.md",
     "Виртуализация  контейнеризация.md",
-    "Pasted image 20260102122946.png",
     "Сайт для стоматологии.md",
     "Основные команды в инструментах  для пантеста.md",
-    "Pasted image 20251204234258.png",
     "HTTP и HTTPS.md",
-    "Pasted image 20251204234135.png",
     "~$чальные уроки Linux 1.docx",
     "Начальные уроки Linux 1.docx",
     "Начальные уроки Linux.docx",
-    "Pasted image 20250719180419.png",
-    "Pasted image 20250719180248.png",
     "Pasted image 20250719180122.png",
     "Pasted image 20250705163308.png",
     "ДЗ.md",
@@ -383,13 +401,10 @@
     "История Stuxnet.md",
     "2025-07-09.md",
     "Без названия.canvas",
-    "Виды атак.md",
     "Инструменты.md",
     "Первая атака фишинг.md",
     "Прочее.md",
-    "Pasted image 20250722190452.png",
     "Pasted image 20250722185801.png",
-    "Без названия",
-    "Pasted image 20250522180045.png"
+    "Без названия"
   ]
 }

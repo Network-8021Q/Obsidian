@@ -249,6 +249,26 @@ userdel diego
 ```
 
 
-# Файлы управление доступом 
+# Разрешение файла
+
+```bush
+chmod <permissions> file изменение прав доступа к файлам и каталогам
+```
+
+```bush
+ chmod u+rwx my-file полный доступ для owner
+```
+
+```bush
+ chmod ugor+r-x my-file дать чтение для owner, group и other, убрать выполнение
+```
+
+```bush
+ chmod o-rwx my-file убрать весь доступ для other
+```
+
+
+
+
 
 

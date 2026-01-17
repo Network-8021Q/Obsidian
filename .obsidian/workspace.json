@@ -210,9 +210,23 @@
               "icon": "lucide-file",
               "title": "Linux (IS)"
             }
+          },
+          {
+            "id": "729f3614d90e6074",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Network (IS).md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Network (IS)"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 14
       }
     ],
     "direction": "vertical"
@@ -269,7 +283,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "1638d6a5eaa4d556",
@@ -360,8 +375,9 @@
       "command-palette:Открыть палитру команд": false
     }
   },
-  "active": "07e266d2f52c9411",
+  "active": "729f3614d90e6074",
   "lastOpenFiles": [
+    "Термины, которые должен знать каждый IT-шник.md",
     "Бизнес.md",
     "Network (IS).md",
     "Linux (IS).md",
@@ -400,7 +416,6 @@
     "Obsidian/Network (IS).md",
     "Obsidian/Linux DevOps.md",
     "Obsidian/Linux (IS).md",
-    "Obsidian/HTTP и HTTPS.md",
     "Obsidian",
     "thefutureofthe20x/Начальные уроки Linux.docx",
     "thefutureofthe20x/Начальные уроки Linux 1.docx",

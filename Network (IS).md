@@ -289,8 +289,9 @@ IPv4 - состоит из  4 октета
 | `172.16.0.0`  | `255.255.0.0`   | `172.16.255.255` |
 
 Таблица mac - адресов
- ```bash
- arp -a 
+
+ arp -a
+
 ```
 
 # **Настройка коммутаторов, маршрутизаторов через CLI**
@@ -750,6 +751,82 @@ src-ip Src IP Addr
 src-macSrc Mac Addr  
 ```
 
+
+
+# Протоколы FHRP (HSRP, VRRP, GLBP)
+
+Протоколы семейства FHRP (First Hop Redundancy Protocols) - протоколы резервирования первого хопа. (первый хоп это маршрутизатор, который основной, мы еще его IP прописываем в ОСНОВНОЙ ШЛЮЗ)
+
+Основные термины и определения
+
+1) Виртуальный маршрутизатор (Virtual Router)
+2) Активный маршрутизатор (Active Router)
+3) Резервный маршрутизатор (Standby Router)
+4) ) Группа резервирования (Standby Group)
+
+#### Протокол HSRP
+
+Реализован на 4 уровне модели OSI, для доставки служебной информации используется протокол UDP, использую пакеты приветствия (hello packets)
+
+Настройка
+GW1(config-if)#standby 1 ip 192.168.1.1 (ip виртульного шлюза) 
+GW1(config-if)#standby 1 priority 200  (номер приоритета)
+GW1(config-if)#standby 1 preempt delay 60 (маршрутизатор будет забирать себе роль активного, без него никак, 60 это задержка)
+GW1(config-if)#standby 1 authentication md5 XXX (пароль)
+
+#### Протокол VRRP
+
+реализован на 3 уровне модели OSI,  для доставки служебной информации используется  протокол VRRP(номер протокола — 112).  
+Маршрутизаторы, на которых включён и настроен  протокол VRRP, для обмена служебной информацией  используют пакеты ADVERTISEMENT (VRRP-  объявление).  
+Эти пакеты отправляются на IP-адрес групповой  
+рассылки (multicast) 224.0.0.18
+
+В VRRP виртуальным адресом шлюза по умолчанию может быть адрес интерфейса.  
+В таком случае маршрутизатору присваивается высший приоритет — 255 (зарезервированное значение),  
+и он становится мастером.  
+Также за мастером зарезервирован приоритет — 0. Он используется, чтобы сообщить backup-  
+маршрутизаторам о сложении с себя ответственности за виртуальный маршрутизатор.  
+Диапазон значений 1–254 доступен для backup-маршрутизаторов.  
+По умолчанию у всех устройств используется приоритет 100
+
+Настройка 
+
+```bush
+GW1(config-if)#vrrp 1 ip 192.168.1.1  
+GW1(config-if)#vrrp 1 preempt delay minimum 15  
+GW1(config-if)#vrrp 1 authentication md5 XXXXXX
+```
+
+```bush
+GW2(config-if)#vrrp 1 ip 192.168.1.1  
+GW2(config-if)#vrrp 1 preempt delay minimum 15  
+GW2(config-if)#vrrp 1 authentication md5 XXXXXX
+```
+
+#### Протокол GLBP
+
+Настройка 
+
+```bush
+
+R1(config-if)#glbp 1 ip 192.168.0.254  
+R1(config-if)#glbp 1 priority 255  
+R1(config-if)#glbp 1 preempt delay minimum 15  
+R1(config-if)#glbp 1 authentication md5 XXXXXX
+```
+
+
+```bush
+R2(config-if)#glbp 1 ip 192.168.0.254  
+R2(config-if)#glbp 1 preempt delay minimum 15  
+R2(config-if)#glbp 1 authentication md5 XXXXXX
+```
+
+```bush
+R3(config-if)#glbp 1 ip 192.168.0.254  
+R3(config-if)#glbp 1 priority 90  
+R3(config-if)#glbp 1 authentication md5 XXXXXX
+```
 
 
 

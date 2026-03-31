@@ -56,22 +56,6 @@
             }
           },
           {
-            "id": "af1567b168a3acb0",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Термины, которые должен знать каждый IT-шник.md",
-                "mode": "source",
-                "source": false
-              },
-              "pinned": true,
-              "icon": "lucide-file",
-              "title": "Термины, которые должен знать каждый IT-шник"
-            }
-          },
-          {
             "id": "884d6d859ab5a7ff",
             "type": "leaf",
             "pinned": true,
@@ -141,20 +125,6 @@
               },
               "icon": "lucide-file",
               "title": "Термины, которые должен знать каждый IT-шник"
-            }
-          },
-          {
-            "id": "b6dda10395a0e0c6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "TelegramBot.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "TelegramBot"
             }
           },
           {
@@ -316,8 +286,8 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Термины, которые должен знать каждый IT-шник.md",
-                "collapseAll": false,
+                "file": "Network (IS).md",
+                "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
@@ -326,7 +296,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Обратные ссылки для Термины, которые должен знать каждый IT-шник"
+              "title": "Обратные ссылки для Network (IS)"
             }
           },
           {
@@ -377,7 +347,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
+    "width": 200,
     "collapsed": true
   },
   "left-ribbon": {
@@ -393,11 +363,13 @@
   },
   "active": "19710768e6c3a855",
   "lastOpenFiles": [
-    "Термины, которые должен знать каждый IT-шник.md",
-    "Стоматология.md",
-    "Network (IS).md",
+    "Terms(IS).md",
     "Linux (IS).md",
+    "Network (IS).md",
+    "Основные команды в инструментах  для пантеста.md",
+    "Термины, которые должен знать каждый IT-шник.md",
     "Виртуализация  контейнеризация.md",
+    "Стоматология.md",
     "ДЗ.md",
     "Виды атак.md",
     "Бизнес.md",
@@ -421,8 +393,6 @@
     "Obsidian/Виды атак.md",
     "Obsidian/Бизнес.md",
     "Obsidian/Без названия.canvas",
-    "Obsidian/Аэропорт.md",
-    "Obsidian/WEB - АТАКИ.md",
     "Obsidian/Pasted image 20260106212218.png",
     "Obsidian/Pasted image 20260106212138.png",
     "Obsidian/Pasted image 20260102122946.png",

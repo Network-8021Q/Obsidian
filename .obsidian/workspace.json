@@ -1,259 +1,54 @@
 {
   "main": {
-    "id": "5b1f7a50b2a7fe37",
+    "id": "4370b8d2b4175604",
     "type": "split",
     "children": [
       {
-        "id": "5cc4356c36b954ee",
+        "id": "3d8f074f34961d5f",
         "type": "tabs",
         "children": [
           {
-            "id": "f5171ece8aa01d12",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Terms(IS).md",
-                "mode": "source",
-                "source": false
-              },
-              "pinned": true,
-              "icon": "lucide-file",
-              "title": "Terms(IS)"
-            }
-          },
-          {
-            "id": "07e266d2f52c9411",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Linux (IS).md",
-                "mode": "source",
-                "source": false
-              },
-              "pinned": true,
-              "icon": "lucide-file",
-              "title": "Linux (IS)"
-            }
-          },
-          {
-            "id": "af1567b168a3acb0",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Термины, которые должен знать каждый IT-шник.md",
-                "mode": "source",
-                "source": false
-              },
-              "pinned": true,
-              "icon": "lucide-file",
-              "title": "Термины, которые должен знать каждый IT-шник"
-            }
-          },
-          {
-            "id": "884d6d859ab5a7ff",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Основные команды в инструментах  для пантеста.md",
-                "mode": "source",
-                "source": false
-              },
-              "pinned": true,
-              "icon": "lucide-file",
-              "title": "Основные команды в инструментах  для пантеста"
-            }
-          },
-          {
-            "id": "6748448e94c05d96",
+            "id": "637f521bda659fc1",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Стоматология.md",
+                "file": "Аэропорт.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Стоматология"
-            }
-          },
-          {
-            "id": "0731ac537d444e9d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Сайт для стоматологии.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Сайт для стоматологии"
-            }
-          },
-          {
-            "id": "562c81335742a0f9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Полная работа, как работает веб-сайт.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Полная работа, как работает веб-сайт"
-            }
-          },
-          {
-            "id": "9f46ccb866404a45",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Термины, которые должен знать каждый IT-шник.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Термины, которые должен знать каждый IT-шник"
-            }
-          },
-          {
-            "id": "b6dda10395a0e0c6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "TelegramBot.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "TelegramBot"
-            }
-          },
-          {
-            "id": "5f789550516d3731",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Виртуализация  контейнеризация.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Виртуализация  контейнеризация"
-            }
-          },
-          {
-            "id": "60450fceb97134f1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "![[Pasted image 20251204234135.png.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "![[Pasted image 20251204234135.png"
-            }
-          },
-          {
-            "id": "3492c7f701402f12",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Network (IS).md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Network (IS)"
-            }
-          },
-          {
-            "id": "088e3622e47acbe6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Бизнес.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Бизнес"
-            }
-          },
-          {
-            "id": "08dfdac70c0684a5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Linux (IS).md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Linux (IS)"
-            }
-          },
-          {
-            "id": "729f3614d90e6074",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Network (IS).md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Network (IS)"
+              "title": "Аэропорт"
             }
           }
-        ],
-        "currentTab": 14
+        ]
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "1b56533e30777046",
+    "id": "e4022f2c3105d9f6",
     "type": "split",
     "children": [
       {
-        "id": "f58acfb4265f30d0",
+        "id": "a851bdab3545a4db",
         "type": "tabs",
         "children": [
           {
-            "id": "ef0b7751d135b6b9",
+            "id": "e9a4eafcf2317dc0",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical",
-                "autoReveal": true
+                "autoReveal": false
               },
               "icon": "lucide-folder-closed",
               "title": "Файловый менеджер"
             }
           },
           {
-            "id": "6e01bcf973783a46",
+            "id": "d057913e0a412c3a",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -270,7 +65,7 @@
             }
           },
           {
-            "id": "b70b8b2ce223b321",
+            "id": "66450e0be1dc82da",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -283,24 +78,23 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
-    "id": "1638d6a5eaa4d556",
+    "id": "d84108827d10b00b",
     "type": "split",
     "children": [
       {
-        "id": "e75ad2f6e803b37e",
+        "id": "95c3781eae6facc2",
         "type": "tabs",
         "children": [
           {
-            "id": "185fdb0988311b9f",
+            "id": "22b62d7c41a7b618",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Термины, которые должен знать каждый IT-шник.md",
+                "file": "Network (IS).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -310,25 +104,25 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Обратные ссылки для Термины, которые должен знать каждый IT-шник"
+              "title": "Обратные ссылки для Network (IS)"
             }
           },
           {
-            "id": "086fa00f58814071",
+            "id": "6a7f24498838cd1d",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Термины, которые должен знать каждый IT-шник.md",
+                "file": "Network (IS).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Исходящие ссылки из Термины, которые должен знать каждый IT-шник"
+              "title": "Исходящие ссылки из Network (IS)"
             }
           },
           {
-            "id": "5a8ea7560da82de5",
+            "id": "541764d8307cfd0d",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -343,18 +137,18 @@
             }
           },
           {
-            "id": "e3fed7af7781fcdd",
+            "id": "711c28e42e3afa5d",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "Термины, которые должен знать каждый IT-шник.md",
+                "file": "Network (IS).md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Структура Термины, которые должен знать каждый IT-шник"
+              "title": "Структура Network (IS)"
             }
           }
         ]
@@ -366,65 +160,25 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "bases:Создать новую базу": false,
       "switcher:Меню быстрого перехода": false,
       "graph:Граф": false,
+      "canvas:Создать новый холст": false,
       "daily-notes:Сегодняшняя заметка": false,
       "templates:Вставить шаблон": false,
-      "canvas:Создать новый холст": false,
-      "command-palette:Открыть палитру команд": false
+      "command-palette:Открыть палитру команд": false,
+      "bases:Создать новую базу": false
     }
   },
-  "active": "729f3614d90e6074",
+  "active": "637f521bda659fc1",
   "lastOpenFiles": [
-    "Термины, которые должен знать каждый IT-шник.md",
-    "Бизнес.md",
-    "Network (IS).md",
-    "Linux (IS).md",
     "Аэропорт.md",
-    "Obsidian/шлюз 10,0,0,1.md",
-    "Obsidian/Термины, которые должен знать каждый IT-шник.md",
-    "Obsidian/Стоматология.md",
-    "Obsidian/Скриншоты.md",
-    "Obsidian/Сайт для стоматологии.md",
-    "Obsidian/Прочее.md",
-    "Obsidian/Полная работа, как работает веб-сайт.md",
-    "Obsidian/Первая атака фишинг.md",
-    "Obsidian/Основные команды в инструментах  для пантеста.md",
-    "Obsidian/Начальные уроки Linux.docx",
-    "Obsidian/Начальные уроки Linux 1.docx",
-    "Obsidian/История Stuxnet.md",
-    "Obsidian/Инструменты.md",
-    "Obsidian/ДЗ.md",
-    "Obsidian/Виртуализация  контейнеризация.md",
-    "Obsidian/Виды атак.md",
-    "Obsidian/Бизнес.md",
-    "Obsidian/Без названия.canvas",
-    "Obsidian/Аэропорт.md",
-    "Obsidian/WEB - АТАКИ.md",
-    "Obsidian/Terms(IS).md",
-    "Obsidian/Pasted image 20260106212218.png",
-    "Obsidian/Pasted image 20260106212138.png",
-    "Obsidian/Pasted image 20260102122946.png",
-    "Obsidian/Pasted image 20251204234258.png",
-    "Obsidian/Pasted image 20251204234135.png",
-    "Obsidian/Pasted image 20250722190452.png",
-    "Obsidian/Pasted image 20250722185801.png",
-    "Obsidian/Pasted image 20250719180419.png",
-    "Obsidian/Pasted image 20250719180248.png",
-    "Obsidian/Pasted image 20250719180122.png",
-    "Obsidian/Network (IS).md",
-    "Obsidian/Linux DevOps.md",
-    "Obsidian/Linux (IS).md",
-    "Obsidian",
-    "thefutureofthe20x/Начальные уроки Linux.docx",
-    "thefutureofthe20x/Начальные уроки Linux 1.docx",
-    "thefutureofthe20x/Без названия.canvas",
-    "thefutureofthe20x",
-    "Network (IS).md~",
-    "4913",
-    "TelegramBot.md~",
-    "~$чальные уроки Linux 1.docx",
-    "Без названия.canvas"
+    "Pasted image 20260326062055.png",
+    "Linux (IS).md",
+    "Linux DevOps.md",
+    "git",
+    "Pasted image 20260204113313.png",
+    "Network (IS).md",
+    "2025-07-09.md",
+    "Бизнес.md"
   ]
 }

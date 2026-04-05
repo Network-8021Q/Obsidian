@@ -1,14 +1,14 @@
 {
   "main": {
-    "id": "4370b8d2b4175604",
+    "id": "966e9fbdd0928e7e",
     "type": "split",
     "children": [
       {
-        "id": "3d8f074f34961d5f",
+        "id": "765347a5fd81af3a",
         "type": "tabs",
         "children": [
           {
-            "id": "637f521bda659fc1",
+            "id": "ee65d39a13750521",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -27,15 +27,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "e4022f2c3105d9f6",
+    "id": "c79d5e62c1de4cdf",
     "type": "split",
     "children": [
       {
-        "id": "a851bdab3545a4db",
+        "id": "6e286f578885f92d",
         "type": "tabs",
         "children": [
           {
-            "id": "e9a4eafcf2317dc0",
+            "id": "f76dd6377b4aaed7",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -48,7 +48,7 @@
             }
           },
           {
-            "id": "d057913e0a412c3a",
+            "id": "54c1dbf3b5903934",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -65,7 +65,7 @@
             }
           },
           {
-            "id": "66450e0be1dc82da",
+            "id": "b7053fff8cd250aa",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -81,20 +81,20 @@
     "width": 200
   },
   "right": {
-    "id": "d84108827d10b00b",
+    "id": "afaa84ec063c1ad9",
     "type": "split",
     "children": [
       {
-        "id": "95c3781eae6facc2",
+        "id": "a3a4314bdc470c96",
         "type": "tabs",
         "children": [
           {
-            "id": "22b62d7c41a7b618",
+            "id": "038d8957cd7daf0a",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Network (IS).md",
+                "file": "Аэропорт.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,25 +104,25 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Обратные ссылки для Network (IS)"
+              "title": "Обратные ссылки для Аэропорт"
             }
           },
           {
-            "id": "6a7f24498838cd1d",
+            "id": "d089210f6454bcb9",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Network (IS).md",
+                "file": "Аэропорт.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Исходящие ссылки из Network (IS)"
+              "title": "Исходящие ссылки из Аэропорт"
             }
           },
           {
-            "id": "541764d8307cfd0d",
+            "id": "c687816e30fb3627",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -137,18 +137,18 @@
             }
           },
           {
-            "id": "711c28e42e3afa5d",
+            "id": "cdf1abb578eaa725",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "Network (IS).md",
+                "file": "Аэропорт.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Структура Network (IS)"
+              "title": "Структура Аэропорт"
             }
           }
         ]
@@ -169,16 +169,10 @@
       "bases:Создать новую базу": false
     }
   },
-  "active": "637f521bda659fc1",
+  "active": "ee65d39a13750521",
   "lastOpenFiles": [
     "Аэропорт.md",
     "Network (IS).md",
-    "Pasted image 20260326062055.png",
-    "Linux (IS).md",
-    "Linux DevOps.md",
-    "git",
-    "Pasted image 20260204113313.png",
-    "2025-07-09.md",
-    "Бизнес.md"
+    "Первая атака фишинг.md"
   ]
 }

@@ -4,7 +4,7 @@
   "strictLineBreaks": false,
   "showIndentGuide": true,
   "rightToLeft": false,
-  "tabSize": 3,
+  "tabSize": 4,
   "promptDelete": false,
   "livePreview": true,
   "defaultViewMode": "source"

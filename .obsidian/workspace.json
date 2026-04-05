@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Аэропорт.md",
+                "file": "Network (IS).md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Аэропорт"
+              "title": "Network (IS)"
             }
           }
         ]
@@ -172,12 +172,12 @@
   "active": "637f521bda659fc1",
   "lastOpenFiles": [
     "Аэропорт.md",
+    "Network (IS).md",
     "Pasted image 20260326062055.png",
     "Linux (IS).md",
     "Linux DevOps.md",
     "git",
     "Pasted image 20260204113313.png",
-    "Network (IS).md",
     "2025-07-09.md",
     "Бизнес.md"
   ]

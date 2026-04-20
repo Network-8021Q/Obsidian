@@ -2095,3 +2095,29 @@ ACL (что шифровать)
 
 
 
+
+
+
+# Межсетевое экранирование на основе зон, statefull/stateless packet inspection
+
+
+ACCESS-LIST для ПК 
+
+Условия:
+
+- HTTP, DNS → ❌ deny
+- FTP → ✅ permit
+
+```bush
+access-list ACL_PC0 extended deny tcp object NET_PC0 object NET_SERVER eq www
+access-list ACL_PC0 extended deny udp object NET_PC0 object NET_SERVER eq domain
+
+access-list ACL_PC0 extended permit tcp object NET_PC0 object NET_SERVER eq ftp
+
+! явно запрещаем всё остальное
+access-list ACL_PC0 extended deny ip object NET_PC0 object NET_SERVER
+```
+
+
+
+

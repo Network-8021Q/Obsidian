@@ -106,7 +106,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "afaa84ec063c1ad9",
@@ -200,8 +201,8 @@
   "active": "ad6d7d028952fa58",
   "lastOpenFiles": [
     "Network (IS).md",
-    "Linux (IS).md",
     "Git.md",
+    "Linux (IS).md",
     "Linux DevOps.md",
     "Аэропорт.md",
     "Первая атака фишинг.md"

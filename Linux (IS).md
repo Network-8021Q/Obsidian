@@ -706,3 +706,21 @@ diff -q /home/labex/project/server1_files /home/labex/project/server2_files > /h
         
 - Вывод полностью сохраняется в файл `missing_files.txt`. Строки `Only in server1_files` показывают файлы, уникальные для первой директории.
 ```
+
+# Создание защищенного файла для нового проекта
+
+```bush
+touch ~/project/phoenix_project/project_keys.txt - **Создайте файл**
+
+chmod 600 ~/project/phoenix_project/project_keys.txt
+														Пояснение:
+	- **Число `600`** означает:
+    
+    - `6` (для владельца) = 4 (чтение) + 2 (запись) = чтение и запись.
+        
+    - `0` (для группы) = нет прав.
+        
+    - `0` (для остальных) = нет прав.
+```
+
+

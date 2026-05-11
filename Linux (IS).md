@@ -724,3 +724,11 @@ chmod 600 ~/project/phoenix_project/project_keys.txt
 ```
 
 
+# Назначение владельцев ресурсов проекта
+
+```bush
+sudo chown -R dev_lead:developers ~/project/phoenix_project
+														Поясненение:
+`-R`                     Рекурсивный режим (recursive) — применяет изменения ко всем файлам и поддиректориям внутри `phoenix_project`|
+`dev_lead:developers`    Синтаксис `пользователь:группа` — одновременно устанавливает владельца-пользователя `dev_lead` и владельца-группу `developers`|
+```

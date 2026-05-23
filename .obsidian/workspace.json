@@ -4,39 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "765347a5fd81af3a",
+        "id": "07f8166a760f8a6f",
         "type": "tabs",
         "children": [
           {
-            "id": "ad6d7d028952fa58",
+            "id": "1d0aa861c3c29fbb",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Network (IS).md",
+                "file": "Network Engineer/Network (IS).md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
               "title": "Network (IS)"
             }
-          },
-          {
-            "id": "a7f5ff9eadcd2267",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Git.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Git"
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -109,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Аэропорт.md",
+                "file": "Network Engineer/Network (IS).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Обратные ссылки для Аэропорт"
+              "title": "Обратные ссылки для Network (IS)"
             }
           },
           {
@@ -184,13 +169,50 @@
       "bases:Создать новую базу": false
     }
   },
-  "active": "a7f5ff9eadcd2267",
+  "active": "1d0aa861c3c29fbb",
   "lastOpenFiles": [
-    "Linux (IS).md",
-    "Network (IS).md",
-    "Git.md",
-    "Linux DevOps.md",
-    "Аэропорт.md",
-    "Первая атака фишинг.md"
+    "Linux_System/Linux (IS).md",
+    "Network Engineer/Network (IS).md",
+    "2026-05-23.md",
+    "Network Engineer/HTTP и HTTPS.md",
+    "Network Engineer/Terms(IS).md",
+    "Work_2/Сайт для стоматологии.md",
+    "Screenshots/Pasted image 20250722185801.png",
+    "Airport/Аэропорт.md",
+    "Screenshots/Pasted image 20250705163308.png",
+    "Screenshots/Pasted image 20250719180122.png",
+    "Screenshots/Pasted image 20250719180248.png",
+    "Screenshots/Pasted image 20250719180419.png",
+    "Screenshots",
+    "Screenshots/Pasted image 20250722190452.png",
+    "Linux_System/Linux DevOps.md",
+    "Linux_System",
+    "Network Engineer/Полная работа, как работает веб-сайт.md",
+    "GitHub/Git.md",
+    "GitHub",
+    "Airport",
+    "Security/WEB - АТАКИ.md",
+    "Network Engineer/DNS - запросы.md",
+    "Network Engineer",
+    "Security/Основные команды в инструментах  для пантеста.md",
+    "Security/Виды атак.md",
+    "Security/Инструменты.md",
+    "Security/История Stuxnet.md",
+    "Security/Скриншоты.md",
+    "шлюз 10,0,0,1.md",
+    "Security/Термины, которые должен знать каждый IT-шник.md",
+    "Стоматология.md",
+    "Work_2",
+    "Прочее.md",
+    "Security/Первая атака фишинг.md",
+    "Виртуализация  контейнеризация.md",
+    "Security",
+    "2025-07-09.md",
+    "![[Pasted image 20251204234135.png.md",
+    "Бизнес.md",
+    "Screenshots/Pasted image 20260401225550.png",
+    "Screenshots/Pasted image 20260326062055.png",
+    "Screenshots/Pasted image 20260106212138.png",
+    "Screenshots/Pasted image 20260102122946.png"
   ]
 }

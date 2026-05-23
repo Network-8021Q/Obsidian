@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Network Engineer/Network (IS).md",
+                "file": "GitHub/Git.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Network (IS)"
+              "title": "Git"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Network Engineer/Network (IS).md",
+                "file": "GitHub/Git.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Обратные ссылки для Network (IS)"
+              "title": "Обратные ссылки для Git"
             }
           },
           {
@@ -171,8 +171,8 @@
   },
   "active": "1d0aa861c3c29fbb",
   "lastOpenFiles": [
-    "Linux_System/Linux (IS).md",
     "Network Engineer/Network (IS).md",
+    "Linux_System/Linux (IS).md",
     "2026-05-23.md",
     "Network Engineer/HTTP и HTTPS.md",
     "Network Engineer/Terms(IS).md",

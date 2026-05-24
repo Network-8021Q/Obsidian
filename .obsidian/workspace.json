@@ -13,15 +13,30 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "GitHub/Git.md",
+                "file": "Network Engineer/Network (IS).md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Git"
+              "title": "Network (IS)"
+            }
+          },
+          {
+            "id": "316b32e26590ded3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Без названия.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Без названия"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -169,12 +184,16 @@
       "bases:Создать новую базу": false
     }
   },
-  "active": "1d0aa861c3c29fbb",
+  "active": "316b32e26590ded3",
   "lastOpenFiles": [
     "Network Engineer/Network (IS).md",
+    "Без названия.md",
+    "Network Engineer/DNS - запросы.md",
+    "Network Engineer/Полная работа, как работает веб-сайт.md",
+    "Network Engineer/HTTP и HTTPS.md",
+    "GitHub/Git.md",
     "Linux_System/Linux (IS).md",
     "2026-05-23.md",
-    "Network Engineer/HTTP и HTTPS.md",
     "Network Engineer/Terms(IS).md",
     "Work_2/Сайт для стоматологии.md",
     "Screenshots/Pasted image 20250722185801.png",
@@ -187,12 +206,9 @@
     "Screenshots/Pasted image 20250722190452.png",
     "Linux_System/Linux DevOps.md",
     "Linux_System",
-    "Network Engineer/Полная работа, как работает веб-сайт.md",
-    "GitHub/Git.md",
     "GitHub",
     "Airport",
     "Security/WEB - АТАКИ.md",
-    "Network Engineer/DNS - запросы.md",
     "Network Engineer",
     "Security/Основные команды в инструментах  для пантеста.md",
     "Security/Виды атак.md",
@@ -209,7 +225,6 @@
     "Security",
     "2025-07-09.md",
     "![[Pasted image 20251204234135.png.md",
-    "Бизнес.md",
     "Screenshots/Pasted image 20260401225550.png",
     "Screenshots/Pasted image 20260326062055.png",
     "Screenshots/Pasted image 20260106212138.png",

@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "HomeWork_Netologi/QoS.md",
+                "file": "Network Engineer/Network (IS).md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "QoS"
+              "title": "Network (IS)"
             }
           }
         ]
@@ -169,17 +169,17 @@
       "bases:Создать новую базу": false
     }
   },
-  "active": "f76dd6377b4aaed7",
+  "active": "1d0aa861c3c29fbb",
   "lastOpenFiles": [
-    "Airport/Аэропорт.md",
+    "Linux_System/Linux (IS).md",
     "HomeWork_Netologi/QoS.md",
+    "Airport/Аэропорт.md",
     "HomeWork_Netologi",
     "Network Engineer/Network (IS).md",
     "Network Engineer/DNS - запросы.md",
     "Network Engineer/Полная работа, как работает веб-сайт.md",
     "Network Engineer/HTTP и HTTPS.md",
     "GitHub/Git.md",
-    "Linux_System/Linux (IS).md",
     "2026-05-23.md",
     "Network Engineer/Terms(IS).md",
     "Work_KGAUZ/Сайт для стоматологии.md",

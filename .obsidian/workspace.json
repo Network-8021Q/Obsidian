@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Без названия.md",
+                "file": "Network Engineer/Network (IS).md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Без названия"
+              "title": "Network (IS)"
             }
           }
         ]
@@ -171,8 +171,8 @@
   },
   "active": "1d0aa861c3c29fbb",
   "lastOpenFiles": [
-    "Work_KGAUZ/ProxMox.md",
     "Без названия.md",
+    "Work_KGAUZ/ProxMox.md",
     "Network Engineer/Network (IS).md",
     "Без названия",
     "Linux_System/Linux (IS).md",

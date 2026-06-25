@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "HomeWork_Netologi/QoS.md",
+                "file": "Network Engineer/Homework.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "QoS"
+              "title": "Homework"
             }
           }
         ]
@@ -171,15 +171,16 @@
   },
   "active": "1d0aa861c3c29fbb",
   "lastOpenFiles": [
+    "Network Engineer/HTTP и HTTPS.md",
+    "Network Engineer/Network (IS).md",
+    "Network Engineer/Homework.md",
+    "Network Engineer/DNS - запросы.md",
+    "HomeWork_Netologi/QoS.md",
     "Work_KGAUZ/Сайт для стоматологии.md",
     "Work_KGAUZ/ProxMox.md",
-    "Network Engineer/Homework.md",
-    "HomeWork_Netologi/QoS.md",
-    "Network Engineer/Network (IS).md",
     "Без названия.md",
     "Без названия 1.md",
     "Network Engineer/Terms(IS).md",
-    "Network Engineer/HTTP и HTTPS.md",
     "GitHub/Git.md",
     "Work_KGAUZ",
     "HomeWork_Netologi",
@@ -200,7 +201,6 @@
     "GitHub",
     "Airport",
     "Security/WEB - АТАКИ.md",
-    "Network Engineer/DNS - запросы.md",
     "Network Engineer",
     "Security/Основные команды в инструментах  для пантеста.md",
     "Security/Виды атак.md",

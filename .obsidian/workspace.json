@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Network Engineer/Network (IS).md",
+                "file": "HomeWork_Netologi/QoS.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Network (IS)"
+              "title": "QoS"
             }
           }
         ]
@@ -171,15 +171,17 @@
   },
   "active": "1d0aa861c3c29fbb",
   "lastOpenFiles": [
-    "Без названия.md",
-    "Network Engineer/Network (IS).md",
-    "Network Engineer/Terms(IS).md",
+    "Work_KGAUZ/Сайт для стоматологии.md",
     "Work_KGAUZ/ProxMox.md",
+    "Network Engineer/Homework.md",
+    "HomeWork_Netologi/QoS.md",
+    "Network Engineer/Network (IS).md",
+    "Без названия.md",
+    "Без названия 1.md",
+    "Network Engineer/Terms(IS).md",
     "Network Engineer/HTTP и HTTPS.md",
     "GitHub/Git.md",
-    "Work_KGAUZ/Сайт для стоматологии.md",
     "Work_KGAUZ",
-    "HomeWork_Netologi/QoS.md",
     "HomeWork_Netologi",
     "Work_2/Сайт для стоматологии.md",
     "Linux_System/Linux (IS).md",
@@ -209,8 +211,6 @@
     "Security/Термины, которые должен знать каждый IT-шник.md",
     "Стоматология.md",
     "Work_2",
-    "Прочее.md",
-    "Security/Первая атака фишинг.md",
     "Security",
     "Screenshots/Pasted image 20260401225550.png",
     "Screenshots/Pasted image 20260326062055.png",
